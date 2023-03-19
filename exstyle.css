@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  padding: 30px 50px;
+}
+header {
+  background-color: aqua;
+  text-align: center;
+  padding: 5px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-family: "Courier New", Courier, monospace;
+}
+.first {
+  border: 2px solid black;
+  margin-bottom: 10px;
+  padding: 10px;
+}
